@@ -1,6 +1,6 @@
 # Socia
 
-![Socia Logo](images/socia_logo.png)
+![Socia Logo](socia_logo.png)
 
 ## Overview
 
