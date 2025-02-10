@@ -1,5 +1,5 @@
 # Socia
-
+🥇 out of 104 teams :) الحمد لله
 ![Socia Logo](socia_logo.png)
 
 ## Overview
